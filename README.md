@@ -6,3 +6,9 @@ Code to import Pandas-> import pandas as pd
 
 ## Technology:
 Python 3
+
+
+### References:
+https://medium.datadriveninvestor.com/powerful-one-liners-in-pandas-every-data-scientist-should-know-620a84c14408 
+https://analyticsindiamag.com/how-to-accelerate-pandas-with-just-one-line-of-code-modin/
+https://www.kdnuggets.com/2023/01/pandas-one-liners-data-access-manipulation-management.html 
